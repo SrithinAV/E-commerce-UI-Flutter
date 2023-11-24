@@ -1,17 +1,39 @@
-# e_commerce_ui_flutter
+# E-Commerce Flutter App
 
-A new Flutter project.
+A Flutter app showcasing a simple E-Commerce User Interface with a basic login screen.
+
+## Features
+
+- User-friendly E-Commerce UI
+- Basic login screen
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you set up and run the app on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter installed on your machine
+- An Android emulator or iOS simulator, or a physical device connected to your computer
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# E-commerce-UI-Flutter
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/SrithinAV/E-commerce-UI-Flutter.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd E-commerce-UI-Flutter
+    ```
+
+3. Run the app:
+
+    ```bash
+    flutter run
+    ```
+    
+
